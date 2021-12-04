@@ -1,0 +1,24 @@
+body{
+    /*background-color: blue; */
+    /*background-color: rgb(85,126,189);*/
+    /*background-color:#00BFFF;*/
+    background-image: url("../imagens/falcao1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; /*1000px 700px*/  
+    font-family: 'Meow Script', cursive;
+    line-height: 1.5;
+    color: white;
+}
+
+main{
+    background-color: rgba(226, 121, 121, 0.6);
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.logo, .manchete, .headline{
+    text-align: center;
+}
+
+
+
